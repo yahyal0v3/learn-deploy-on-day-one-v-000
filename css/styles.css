@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#khaya-dillon-cover {
+   background-image: url("link to my imgur cover photo");
+ }
+
+ #khaya-dillon-card {
+   background-image: url("https://imgur.com/uIrnM1c");
+ }
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
